@@ -311,7 +311,6 @@ android {
         )
         abortOnError = false
     }
-
     dependencies {
         debugImplementation("androidx.compose.ui:ui-tooling:1.8.2")
     }
